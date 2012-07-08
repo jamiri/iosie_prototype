@@ -1,4 +1,3 @@
-require "sinatra/partial"
 require "active_record"
 require "./db/ar_config"
 require "./db/models/Category"
